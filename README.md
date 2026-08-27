@@ -112,15 +112,7 @@ A platform concept connecting **job seekers and recruiters** through a simple di
 | 🗄️ Database       | MySQL                   |
 
 ---
----
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
 
 ## ⚡ Fun Fact
 
