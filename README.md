@@ -46,17 +46,6 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,c,python" />
 </p>
 
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### 🗄️ Database & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,nodejs" />
-</p>
 
 ### 🔧 Tools & Platforms
 
