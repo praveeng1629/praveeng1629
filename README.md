@@ -107,9 +107,7 @@ A platform concept connecting **job seekers and recruiters** through a simple di
 | ☕ Programming      | Java                    |
 | ⚙️ Programming     | C / C++                 |
 | 🐍 Programming     | Python                  |
-| 🌐 Web             | HTML / CSS / JavaScript |
-| 🔌 Hardware        | Arduino                 |
-| 🗄️ Database       | MySQL                   |
+
 
 ---
 
